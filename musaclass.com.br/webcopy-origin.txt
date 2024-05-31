@@ -1,0 +1,260 @@
+Uri: https://kit.fontawesome.com/5eb0699123.js
+File Name: C:\Downloaded Web Sites\musaclass.com.br\5eb0699123.js
+Content Type: text/javascript
+
+Uri: https://musaclass.com.br/acompanhantes/teresina/
+File Name: C:\Downloaded Web Sites\musaclass.com.br\acompanhantes\teresina\index.htm
+Content Type: text/html
+
+Uri: https://musaclass.com.br/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\musaclass.com.br\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\add-to-any\addtoany.min.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\add-to-any\addtoany.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\bj-lazy-load\js\bj-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/plugins/video-embed-thumbnail-generator/src/public/css/videopack-styles.css?ver=4.10.2
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\video-embed-thumbnail-generator\src\public\css\videopack-styles.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.10.2
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\video-embed-thumbnail-generator\video-js\kg-video-js-skin.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.min.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\video-embed-thumbnail-generator\video-js\video-js.min.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/wp-bannerize-pro/public/css/wp-bannerize-admin-bar.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\wp-bannerize-pro\public\css\wp-bannerize-admin-bar.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/wp-bannerize-pro/public/css/wp-bannerize.css?ver=1.7.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\wp-bannerize-pro\public\css\wp-bannerize.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/plugins/wp-bannerize-pro/public/js/wp-bannerize-impressions.js?ver=1.7.5
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\plugins\wp-bannerize-pro\public\js\wp-bannerize-impressions.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/favicon-128.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\favicon-128.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/favicon-196x196.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\favicon-196x196.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/icons/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\icons\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/images/logomc23.png
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\images\logomc23.png
+Content Type: image/png
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/js/main.min.js?ver=1.6.3
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/owlcarousel/assets/owl.carousel.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/owlcarousel/assets/owl.theme.default.css?ver=1.0
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\owlcarousel\assets\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/assets/owlcarousel/owl.carousel.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\assets\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-content/themes/2022/style.css?ver=1.0.9
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\themes\2022\style.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-content/uploads/2022/09/PHOTO-2022-09-20-07-47-15-2-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2022\09\PHOTO-2022-09-20-07-47-15-2-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/01/Acompanhante-3-9-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\01\Acompanhante-3-9-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/07/drii-cordeiro-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\07\drii-cordeiro-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/11/Acompanhante-10-13-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\11\Acompanhante-10-13-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/11/Acompanhante-5-22-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\11\Acompanhante-5-22-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/12/Acompanhante-3-38-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\12\Acompanhante-3-38-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/12/Garota-de-programa-luxo-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\12\Garota-de-programa-luxo-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2023/12/TERESINA_Acompanhante-5-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2023\12\TERESINA_Acompanhante-5-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/01/IMG-20240311-WA0024-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\01\IMG-20240311-WA0024-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/01/Joao-pessoa-acompanhante-3-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\01\Joao-pessoa-acompanhante-3-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/01/puta-1-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\01\puta-1-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/02/Acompanhante-5-21-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\02\Acompanhante-5-21-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/02/Acompanhante-6-23-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\02\Acompanhante-6-23-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/04/IMG-20240109-WA0019-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\04\IMG-20240109-WA0019-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/04/IMG-20240429-WA0020-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\04\IMG-20240429-WA0020-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-0-13-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-0-13-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-11-6-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-11-6-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-4-17-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-4-17-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-4-340-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-4-340-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-9-7-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-9-7-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-joaopessoa-1-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-joaopessoa-1-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-joaopessoa-3-1-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-joaopessoa-3-1-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/Acompanhante-teresina-5-450x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\Acompanhante-teresina-5-450x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-content/uploads/2024/05/IMG_7257-620x930.jpg
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-content\uploads\2024\05\IMG_7257-620x930.jpg
+Content Type: image/jpeg
+
+Uri: https://musaclass.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://musaclass.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://musaclass.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\musaclass.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://static.addtoany.com/menu/page.js
+File Name: C:\Downloaded Web Sites\musaclass.com.br\menu\page.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\musaclass.com.br\masonry-layout@4.2.2\dist\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-R63KSVDNRG
+File Name: C:\Downloaded Web Sites\musaclass.com.br\gtag\js
+Content Type: application/javascript
+
